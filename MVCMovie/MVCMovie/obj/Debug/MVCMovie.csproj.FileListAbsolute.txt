@@ -21,10 +21,12 @@ c:\users\jeliass\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\bin\Sys
 c:\users\jeliass\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\bin\System.Web.WebPages.Razor.xml
 c:\users\jeliass\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\bin\Antlr3.Runtime.pdb
 c:\users\jeliass\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\bin\Newtonsoft.Json.xml
-c:\users\jeliass\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csprojResolveAssemblyReference.cache
 c:\users\jeliass\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.dll
 c:\users\jeliass\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.pdb
 C:\Users\jeliass\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\bin\EntityFramework.dll
 C:\Users\jeliass\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\bin\EntityFramework.SqlServer.dll
 C:\Users\jeliass\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\bin\EntityFramework.xml
 C:\Users\jeliass\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\jeliass\Documents\Visual Studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csprojAssemblyReference.cache
+C:\Users\jeliass\Documents\Visual Studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csproj.CoreCompileInputs.cache
+C:\Users\jeliass\Documents\Visual Studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csproj.CopyComplete
